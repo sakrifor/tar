@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <objective>
+  <Objectives>
 We investigated the diagnostic accuracy of non-invasive cardiac screening tests versus coronary angiography in potential kidney transplant recipients. We provided summary estimates of diagnostic accuracy for individual index tests to better understand the utility and limitations of these non-invasive tests.
 Secondary objectives
 We compared the diagnostic accuracy among different screening tests through:
@@ -8,16 +8,16 @@ Direct comparison: By analysing the results of studies that assessed diagnostic 
 Indirect comparison: By comparing the pooled results of studies that assessed accuracy of screening tests in separate populations. 
 The ability of screening tests to detect severe coronary artery stenosis (≥ 70% stenosis detected on coronary angiography) was also assessed and compared among different screening tests. 
 Investigation of sources of heterogeneity
-We also investigated if diagnostic accuracy varied among studies with different prevalence of symptomatic chest pain and analysed the effect. For this analysis, we included only studies that used a threshold of ≥ 70% stenosis on coronary angiography for the diagnosis of CAD. To avoid partial verification, we considered effects among study participants who underwent both the index test and coronary angiography. This methodology meant that we were able to avoid partial verification.</objective>
-  <type_of_study>
-We included all diagnostic cross sectional studies, cohort studies and randomised studies of test accuracy that compared cardiac test accuracy with results obtained from coronary angiography (the reference standard). </type_of_study>
-  <participants>
+We also investigated if diagnostic accuracy varied among studies with different prevalence of symptomatic chest pain and analysed the effect. For this analysis, we included only studies that used a threshold of ≥ 70% stenosis on coronary angiography for the diagnosis of CAD. To avoid partial verification, we considered effects among study participants who underwent both the index test and coronary angiography. This methodology meant that we were able to avoid partial verification.</Objectives>
+  <TypesofStudies>
+We included all diagnostic cross sectional studies, cohort studies and randomised studies of test accuracy that compared cardiac test accuracy with results obtained from coronary angiography (the reference standard). </TypesofStudies>
+  <TypesofParticipants>
 Study participants included all patients who were considered to be potential candidates for kidney transplantation or kidney-pancreas transplantation at the time the diagnostic tests were performed. 
 Inclusion criteria
 We included studies reporting outcomes relating to patients considered to be potential candidates for kidney transplantation or kidney-pancreas transplantation at the time diagnostic tests were performed. To ensure that our review was accessible and succinct, we chose to limit the population to patients with CKD who were considered candidates for kidney transplantation, but included all possible tests used to diagnose CAD.
 Exclusion criteria
-Studies were excluded if they did not explicitly state that all study participants were candidates for kidney transplantation. We also excluded studies that investigated cardiac test accuracy in patients with ESKD who were not transplant candidates (i.e. they were unselected dialysis patients, not undergoing pre-transplant assessment). Patients with ESKD who are not transplantation candidates differ from patients who are transplant candidates with respect to several key prognostic variables, such as age and fitness for surgery. These differences in the key prognostic variables may result in differences in disease prevalence and test performance. We also excluded studies which investigated patients with features of acute coronary syndrome as our aim was to investigate the performance of cardiac tests in a preoperative screening context. Where it appeared that only some of the study participants were transplantation candidates, we contacted the study authors requesting separate data for only transplantation candidates.</participants>
-  <index_tests>Any non‐ or minimally invasive test used to assess risk of CAD. These included:
+Studies were excluded if they did not explicitly state that all study participants were candidates for kidney transplantation. We also excluded studies that investigated cardiac test accuracy in patients with ESKD who were not transplant candidates (i.e. they were unselected dialysis patients, not undergoing pre-transplant assessment). Patients with ESKD who are not transplantation candidates differ from patients who are transplant candidates with respect to several key prognostic variables, such as age and fitness for surgery. These differences in the key prognostic variables may result in differences in disease prevalence and test performance. We also excluded studies which investigated patients with features of acute coronary syndrome as our aim was to investigate the performance of cardiac tests in a preoperative screening context. Where it appeared that only some of the study participants were transplantation candidates, we contacted the study authors requesting separate data for only transplantation candidates.</TypesofParticipants>
+  <IndexTests>Any non‐ or minimally invasive test used to assess risk of CAD. These included:
 
 Stress echocardiography (using either exercise or pharmacological stress, e.g. DSE)
 
@@ -268,8 +268,8 @@ We managed the issue of different cut points by involving an analysis which incl
 
 All studies regardless of threshold of CAD on coronary angiography (these will include both studies which have ≥ 50% stenosis and ≥ 70% stenosis
 Only studies which had ≥ 70% stenosis threshold
-CAD: coronary artery disease; CIMT: carotid intimal medial thickness; CT: computed tomography; ECG: electrocardiograph; MPS: myocardial perfusion scintigraphy; MRI: magnetic resonance imaging; PTAC: percutaneous transluminal coronary angioplasty</index_tests>
-  <target_conditions>
-Coronary artery stenosis was defined as at least 50% narrowing in at least one epicardial coronary artery on coronary angiography. We defined severe coronary artery stenosis as ≥ 70% stenosis on coronary angiography.</target_conditions>
-  <reference_standards>Coronary angiography.</reference_standards>
+CAD: coronary artery disease; CIMT: carotid intimal medial thickness; CT: computed tomography; ECG: electrocardiograph; MPS: myocardial perfusion scintigraphy; MRI: magnetic resonance imaging; PTAC: percutaneous transluminal coronary angioplasty</IndexTests>
+  <TargetConditions>
+Coronary artery stenosis was defined as at least 50% narrowing in at least one epicardial coronary artery on coronary angiography. We defined severe coronary artery stenosis as ≥ 70% stenosis on coronary angiography.</TargetConditions>
+  <ReferenceStandards>Coronary angiography.</ReferenceStandards>
 </root>
