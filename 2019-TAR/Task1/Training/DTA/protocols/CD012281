@@ -9,6 +9,8 @@ characteristics of the study population: age (adolescents versus later reproduct
 histological confirmation in conjunction with laparoscopic visualisation compared to laparoscopic visualisation alone;
 changes in technology over time: year of publication; modifications applied to conventional laboratory techniques;
 methodological quality: differences in the QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies-2) evaluation (Table 3), including a) low versus unclear or high risk; b) consecutive versus non-consecutive enrolment; c) blinding of surgeons to the results of index tests;
+</Objectives>
+<ObjectiveTable>
 Table 3. Risk of bias and applicability judgments for the quality assessment of diagnostic accuracy studies (QUADAS-2)
 DIE: deep infiltrating endometriosis
 Domain 1 - Patient selection
@@ -115,7 +117,7 @@ Risk of bias Could the patient flow have introduced bias?
 High If 'no' classification for any of the above three questions
 Low If 'yes' classification for all the above three questions
 Unclear If 'unclear' classification for any of the above three questions and 'high risk' judgement was not applicable
-study design ('single-gate design' versus 'two-gate design' studies).</Objectives>
+study design ('single-gate design' versus 'two-gate design' studies).</ObjectiveTable>
   <TypesofStudies>
 Published peer-reviewed studies that compared the results of a combination of several testing modalities with the results obtained from a surgical diagnosis of endometriosis.
 Studies were included if they included the following study designs.

@@ -5,6 +5,8 @@ To determine and compare the accuracy of EUS and MRCP for the diagnosis of commo
 Secondary objectives
 To investigate variation in the diagnostic accuracy of EUS and MRCP according to the following potential sources of heterogeneity.
 Studies at low risk of bias versus those with unclear or high risk of bias (as assessed by the QUADAS-2) tool (Table 1).
+  </Objectives>
+  <ObjectiveTable>
 Table 1. Application of the QUADAS-2 tool for assessing methodological quality of included studies
 Domain 1: Patient sampling Signalling question Signalling question Signalling question Risk of bias Concerns for applicability
 Patient sampling Was a consecutive or random sample of patients enrolled? Was a case-control design avoided? Did the study avoid inappropriate exclusions? Could the selection of patients have introduced bias? Were there concerns that the included patients and setting did not match the review question?
@@ -62,7 +64,7 @@ Prospective versus retrospective studies.
 Symptomatic versus asymptomatic common bile duct stones (the presence of symptoms may increase the pre-test probability). Symptomatic patients are defined as patients showing upper right quadrant abdominal pain, jaundice, acute cholangitis or acute pancreatitis (Anciaux 1986; Roston 1997; Raraty 1998; Toh 2000; Tranter 2003).
 Prevalence of common bile duct stones in each included study. The prevalence of common bile duct stones in the population analysed by each included study may vary and cause heterogeneity. Prevalence may also change with the presence of patients with comorbidities that would predispose them to common bile duct stones such as primary sclerosing cholangitis, Caroli's disease, hypercholesterolaemia, sickle cell anaemia, and sphincter of Oddi dysfunction.
 Proportion of patients with previous cholecystectomy. Cholecystectomy may cause dilatation of the common bile duct (Benjaminov 2013) and subsequently change the accuracy of the index test, particularly imaging modalities.
-Proportion of patients with common bile duct strictures (only for index tests that use contrast material, as strictures may prevent contrast material from filling the common bile duct completely and, therefore, change the accuracy of the index test).</Objectives>
+Proportion of patients with common bile duct strictures (only for index tests that use contrast material, as strictures may prevent contrast material from filling the common bile duct completely and, therefore, change the accuracy of the index test).</ObjectiveTable>
   <TypesofStudies>
 We included studies providing cross-sectional information comparing one or more of the index tests against a reference standard in the appropriate patient population (see Participants). We included studies irrespective of language or publication status, or whether data were collected prospectively or retrospectively. We planned to include comparative studies in which EUS and MRCP were performed in the same study population, either by giving all patients both index tests or by randomly allocating patients to receive MRCP or EUS. We planned to exclude diagnostic case-control studies if there were at least four cross-sectional or comparative studies.</TypesofStudies>
   <TypesofParticipants>
