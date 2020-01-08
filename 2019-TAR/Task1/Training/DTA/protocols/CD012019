@@ -11,6 +11,8 @@ Characteristics of the study population: age (adolescents vs. later reproductive
 Histological confirmation in conjunction with laparoscopic visualisation compared to laparoscopic visualisation alone;
 Changes in technology over time: year of publication; modifications applied to conventional laboratory techniques;
 Methodological quality: differences in the QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies-2) evaluation (Table 3), including a) low versus unclear or high risk; b) consecutive versus non-consecutive enrolment; c) blinding of surgeons to the results of index tests;
+</Objectives>
+<ObjectiveTable>
 Table 3. Application of the QUADAS-2 tool for assessment of methodological quality of the included studies
 Domain 1 - Patient selection
 Description Describe methods of patient selection and included patients
@@ -105,7 +107,9 @@ Low If 'yes' classification for all the above 3 questions
 High If 'no' classification for any of the above 3 questions
 Unclear If 'unclear' classification for any of the above 3 questions and 'high risk' judgement was not applicable
 Study design ('single-gate design' vs. 'two-gate design' studies).
-2. To assess biomarkers which were not affected by endometriosis and hence were unlikely to discriminate between women with and without the disease.</Objectives>
+2. To assess biomarkers which were not affected by endometriosis and hence were unlikely to discriminate between women with and without the disease.
+</ObjectiveTable>
+
   <TypesofStudies>
 Published peer-reviewed studies that compared the results of one or several types of urinary biomarkers with the results obtained by surgical diagnosis of endometriosis. Studies were included if they were:
 Randomised controlled trials;

@@ -9,6 +9,9 @@ participant characteristics: age (adolescents versus later reproductive years), 
 histological confirmation in conjunction with laparoscopic visualisation compared to laparoscopic visualisation alone;
 changes in technology over time: year of publication, modifications applied to conventional laboratory techniques;
 methodological quality: differences in the revised Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2) evaluation (Table 2), including low versus unclear or high risk; consecutive versus non-consecutive enrolment; and blinding of surgeons to the results of index tests;
+</Objectives>
+<ObjectiveTable>
+
 Table 2. QUADAS 2- risk of bias assessment tool: methodological items and applicability judgement
 Domain 1 - Patient selection
 Description Describe methods of patient selection; describe included patients (previous testing, presentation, intended use of index test, and setting)
@@ -103,7 +106,7 @@ Low If 'yes' classification for all the above 3 questions
 High If 'no' classification for any of the above 3 questions
 Unclear If 'unclear' classification for any of the above 3 questions and 'high risk' judgement was not applicable
 study design (single-gate design versus two-gate design studies).
-To assess the biomarkers that were not affected by endometriosis and hence are unlikely to discriminate between patients with and without the disease.</Objectives>
+To assess the biomarkers that were not affected by endometriosis and hence are unlikely to discriminate between patients with and without the disease.</ObjectiveTable>
   <TypesofStudies>
 Published peer-reviewed studies that compared the results of one or several types of eutopic endometrial biomarker tests with the results obtained by surgical visualisation of lesions for the diagnosis of endometriosis.
 We included the following types of studies.
