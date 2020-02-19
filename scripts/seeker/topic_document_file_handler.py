@@ -1,8 +1,8 @@
 __author__ = 'leifos'
 
 
-from seeker.common_helpers import file_exists
-from seeker.common_helpers import AutoVivification
+from data.tar.scripts.seeker.common_helpers import file_exists
+from data.tar.scripts.seeker.common_helpers import AutoVivification
 
 
 class TopicDocumentFileHandler(object):

@@ -1,8 +1,7 @@
 __author__ = "Leif Azzopardi"
 
-import os
 import sys
-from seeker.trec_qrel_handler import TrecQrelHandler
+from .seeker.trec_qrel_handler import TrecQrelHandler
 
 
 def save_topic(cFileHandler, topic_id, doc_dict):

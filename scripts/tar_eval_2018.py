@@ -4,12 +4,13 @@ import os
 import sys
 import re
 import math
-from measures.tar_rulers_2018 import TarRulerTask2, TarRulerTask1, TarAggRuler
-from seeker.trec_qrel_handler import TrecQrelHandler
+from scripts.measures.tar_rulers_2018 import TarRulerTask2, TarRulerTask1, TarAggRuler
+from data.tar.scripts.seeker.trec_qrel_handler import TrecQrelHandler
+# from scripts.measures.tar_rulers_2018 import TarRulerTask1, TarRulerTask2
+# from scripts.seeker.trec_qrel_handler import TrecQrelHandler
 
 
 def main(task, results_file, qrel_file):
-
     qrh = TrecQrelHandler(qrel_file)
     #print(qrh.get_doc_list('CD009263')) # show the documents in the qrels for the particular topic
     #print(qrh.get_topic_list()) # show what qrel topics have been read in

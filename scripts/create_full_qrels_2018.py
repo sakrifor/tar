@@ -1,6 +1,5 @@
 import sys
-import os
-from seeker.trec_qrel_handler import TrecQrelHandler
+from .seeker.trec_qrel_handler import TrecQrelHandler
 
 
 def main(qrelFile, pidFile, fullqrelFilename):

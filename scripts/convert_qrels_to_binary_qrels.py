@@ -1,5 +1,4 @@
 import sys
-import os
 
 def main(qrelFile, threshold):
 
@@ -13,7 +12,7 @@ def main(qrelFile, threshold):
             (topic_id, blank, doc_id, judgement) = line.split()
 
             v= int(judgement)
-            if  v > 0 and v < threshold:
+            if 0 < v < threshold:
                 v = 1
                 print("{0}\t{1}\t{2}\t{3}".format(topic_id, "0", doc_id, v))
 

@@ -1,9 +1,6 @@
 __author__ = 'leifos'
 
-
-from seeker.common_helpers import file_exists
-from seeker.common_helpers import AutoVivification
-from seeker.topic_document_file_handler import TopicDocumentFileHandler
+from data.tar.scripts.seeker.topic_document_file_handler import TopicDocumentFileHandler
 
 class TrecQrelHandler(TopicDocumentFileHandler):
 
