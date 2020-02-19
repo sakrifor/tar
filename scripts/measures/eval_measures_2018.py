@@ -74,7 +74,7 @@ class EvalMeasure(object):
             val = getattr(self,measure)
             if isinstance(val,float):
                 if val < 1:
-                    val = round(val,3)
+                    val = round(val,4)
                 else:
                     val = round(val,0)
             print("{0}\t{1}\t{2}".format(self.topic_id, measure, val ))
@@ -154,8 +154,8 @@ class CountBasedMeasures(DescriptionMeasures):
         if self.rels_found < self.num_rels_95: # If you never reach 95% recall; this should never be invoken in Task 2
             self.wss_95 = 0
 
-        self.norm_last_rel = round((float(self.last_rel) / float(self.num_docs)),3) # Percentage of documents to be read to find the last relevant
-        self.norm_threshold = round((float(self.threshold)/float(self.num_docs)),3) # Percentage of documents to be read
+        self.norm_last_rel = round((float(self.last_rel) / float(self.num_docs)),4) # Percentage of documents to be read to find the last relevant
+        self.norm_threshold = round((float(self.threshold)/float(self.num_docs)),4) # Percentage of documents to be read
 
 
 
@@ -261,15 +261,15 @@ class GainBasedMeasures(DescriptionMeasures):
         print("{0}\tcg_max\t{1}".format(self.topic_id, round(self.cg_max,0)))
 
         print("{0}\tcg_threshold\t{1}".format(self.topic_id, round(self.cg_threshold,0)))
-        print("{0}\trecall_threshold\t{1}".format(self.topic_id, round(self.ncg_threshold,3)))
+        print("{0}\trecall_threshold\t{1}".format(self.topic_id, round(self.ncg_threshold,4)))
         print("{0}\tthreshold\t{1}".format(self.topic_id, round(self.threshold,0)))
         #print(self.cgat)
         percent = 0
         for i in range(0,self.maxt):
             x = 0.0
             if self.cg_max > 0.0:
-                x = round(float(self.cgat[i])/float(self.cg_max),3)
-            print("{0}\trecall@{1}%\t{2}".format( self.topic_id, percent+(100/self.maxt), x, 3))
+                x = round(float(self.cgat[i])/float(self.cg_max),4)
+            print("{0}\trecall@{1}%\t{2}".format( self.topic_id, percent+(100/self.maxt), x, 4))
             percent += (100/self.maxt)
 
 
@@ -320,7 +320,7 @@ class AreaBasedMeasures(DescriptionMeasures):
             self.max_area = self._calc_max_area(self.num_rels, (self.num_docs-num_not_shown))
 
         if self.max_area > 0.0:
-            self.norm_area = round(self.area / self.max_area,3)
+            self.norm_area = round(self.area / self.max_area,4)
         else:
             self.norm_area = 0.0
 
@@ -506,12 +506,12 @@ class RecallBasedMeasures(DescriptionMeasures):
     def print_scores(self):
         print("{0}\trecall_total\t{1}".format(self.topic_id, round(self.recall_total,0)))
         print("{0}\trecall_max\t{1}".format(self.topic_id, round(self.recall_max,0)))
-        print("{0}\trecall_at_threshold\t{1}".format(self.topic_id, round(self.recall_thres/float(self.recall_max), 3)))
-        print("{0}\trecall_threshold\t{1}".format(self.topic_id, round(self.recall_threshold, 3)))
+        print("{0}\trecall_at_threshold\t{1}".format(self.topic_id, round(self.recall_thres/float(self.recall_max), 4)))
+        print("{0}\trecall_threshold\t{1}".format(self.topic_id, round(self.recall_threshold, 4)))
 
         percent = 0
         for i in range(0,(len(self.recall_levels))):
             x = 0.0
             if self.recall_max > 0.0:
-                x = round(float(self.recallat[i])/float(self.recall_max),3)
+                x = round(float(self.recallat[i])/float(self.recall_max),4)
             print("{0}\trecall@{1}\t{2}".format( self.topic_id, self.recall_levels[i], x))
