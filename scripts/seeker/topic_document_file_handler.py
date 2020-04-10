@@ -14,13 +14,16 @@ class TopicDocumentFileHandler(object):
 
     def _put_in_line(self, line):
         # handles the specific format of the line (assumes 3 columns: topic document value )
-        parts = line.partition(' ')
+        if "," in line:
+            parts = line.partition(",")
+        else:
+            parts = line.partition(r"\s+")
         topic = parts[0]
-        parts = parts[2].partition(' ')
-        doc = parts[0]
-        value = parts[2].strip()
+        # parts = parts[2].partition(' ')
+        doc = parts[2]
+        value = parts[3].strip()
         if topic and doc:
-            self.qrels[topic][doc] =  int(value)
+            self.qrels[topic][doc] = int(value)
 
     def _get_out_line(self, topic, doc):
         # outputs the topic document and value in a specific way.

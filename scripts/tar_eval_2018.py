@@ -4,8 +4,10 @@ import os
 import sys
 import re
 import math
-from scripts.measures.tar_rulers_2018 import TarRulerTask2, TarRulerTask1, TarAggRuler
+from data.tar.scripts.measures.tar_rulers_2018 import TarRulerTask2, TarRulerTask1, TarAggRuler
 from data.tar.scripts.seeker.trec_qrel_handler import TrecQrelHandler
+# from measures.tar_rulers_2018 import TarRulerTask2, TarRulerTask1, TarAggRuler
+# from seeker.trec_qrel_handler import TrecQrelHandler
 # from scripts.measures.tar_rulers_2018 import TarRulerTask1, TarRulerTask2
 # from scripts.seeker.trec_qrel_handler import TrecQrelHandler
 

@@ -13,7 +13,12 @@ class TrecQrelHandler(TopicDocumentFileHandler):
             Topic Iteration Document Judgement
             Iteration is not used.
         '''
-        parts = line.split()
+        if 'id' in line:
+            return
+        if "," in line:
+            parts = line.split(",")
+        else:
+            parts = line.split()
         topic = parts[0]
         doc = parts[2].strip()
         judgement = parts[3].strip()
