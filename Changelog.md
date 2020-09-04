@@ -24,7 +24,7 @@ This is a changelog file containing all the changes made from 23/10/2019 and onw
 17. *10/04/2020* - 2020 Qrel Update Task 1 Test Set - Updated qrels for 2020 Test Set. For DTA  -> 2019-TAR\Task1\Testing\DTA\qrels\task1.train.new.dta.2020.qrels, Intervention -> 2019-TAR\Task1\Testing\Intervention\qrels\task1.train.new.intervention.2020.qrels, Qualitative -> 2019-TAR\Task1\Testing\Qualitative\qrels\task1.train.new.qualitative.2020.qrels and Prognosis -> 2019-TAR\Task1\Testing\Prognosis\qrels\task1.train.new.prognosis.2020.qrels
 18. *3/9/2020* - Remove unnecessary protocols - Removing protocols  CD011686, CD012164, CD011571 from test set since they already exist in train set.
 19. *4/9/2020* - Remove Test SRs with no PMIDS - CD011140 & CD012342 from Testing set since they don't contain any PMIDs.
-20. **
+20. *4/9/2020* - 2020 Update Info - New folder that contains the statistics and all the references found in the 2019 dataset
 
 
 
