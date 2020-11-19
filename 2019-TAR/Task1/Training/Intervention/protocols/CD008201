@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <Objectives>The objective of this review was to assess the effects of system‐wide interventions, designed to increase the implementation of thromboprophylaxis, decrease the incidence of VTE in hospitalized adult medical and surgical patients at risk for VTE, or both, focusing on randomized controlled trials (RCTs) only. 
+We assessed effectiveness in terms of: Increase in the proportion of participants who received prophylaxis (RP)
+Increase in the proportion of participants who received appropriate prophylaxis (RAP)
+Decrease in the proportion of participants who developed any VTE (i.e. all, symptomatic, asymptomatic VTE; proximal, distal, or any DVT; PE, or fatal PE) 
+Decrease in the proportion of participants who developed symptomatic VTE (i.e. all VTE; proximal, distal, or any DVT; PE, or fatal PE) 
+Decrease in the proportion of participants who develop asymptomatic VTE (detected by systematic screening of participants who did not have symptoms of DVT or PE) 
+Decrease in the number of deaths (all‐cause mortality, sudden death)
+Safety of the intervention (e.g. frequency of bleeding or other complications)</Objectives>
+<TypesofStudies>We considered all RCTs that included a control group, and evaluated the effectiveness of one or more system‐wide interventions designed to increase the implementation of thromboprophylaxis in hospitalized adult medical or surgical patients at risk for VTE. Thus, we considered parallel group RCTs, cross‐over RCTs, factorial design RCTs, cluster‐randomized controlled trials (CRTs), and quasi‐RCTs (QRCTs, e.g. those using pseudo‐randomization methods, such as even or odd date of birth). We accepted control group comparisons such as no intervention, an existing policy, or another type of intervention. We considered studies and abstracts in any language. </TypesofStudies>
+<TypesofParticipants>Depending on the study design, participants could include hospitalized adult medical or surgical inpatients, their physicians, residents, or nurses, or in the case of CRTs, the cluster unit (e.g. ward, hospital, physician practice).</TypesofParticipants>
+<TypesofInterventions>Interventions included any strategy targeted at individuals or clustered units that aimed to increase the use of thromboprophylaxis in hospitalized patients at risk for VTE, decrease the rate of symptomatic or asymptomatic VTE, or both. Examples of interventions included alerts, multifaceted interventions, educational interventions, and preprinted paper or electronic orders. We excluded studies in which the intervention was a simple distribution of published guidelines, and studies in which the intervention was not clearly described. </TypesofInterventions>
+<TypesofOutcomeMeasures>Primary outcomes Increase in the proportion of participants who received prophylaxis (RP). Prophylaxis could be either pharmacologic or mechanical Secondary outcomes
+Increase in the proportion of participants who received appropriate prophylaxis (RAP). The definition of appropriate prophylaxis was that used by the respective study authors 
+Decrease in the proportion of participants who developed any VTE (i.e. all, symptomatic, asymptomatic; any, proximal, distal, DVT; PE, fatal PE) 
+Decrease in the proportion of participants who developed symptomatic VTE (all VTE; any, proximal, distal DVT; PE, fatal PE) 
+Decrease in the proportion of participants who developed asymptomatic VTE (detected by systematic screening of participants who did not have symptoms of DVT or PE) 
+Decrease in the number of deaths (all‐cause mortality, sudden death)
+Safety of the intervention, e.g. frequency of clinically relevant bleeding (major hemorrhage, minor hemorrhage), or other complications 
+We included studies if the study design, population, and intervention were clearly described, if data were provided separately by intervention group and for VTE outcomes, and if VTE was diagnosed using objective, accepted diagnostic criteria. </TypesofOutcomeMeasures>
+</root>

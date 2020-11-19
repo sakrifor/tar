@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <objective>
+  <Objectives>
 Primary 
 1. To provide summary estimates of the diagnostic accuracy of urinary biomarkers for the diagnosis of pelvic endometriosis (peritoneal or ovarian or deep infiltrating, or a combination thereof) compared to surgical diagnosis as a reference standard.
 2. To assess the diagnostic utility of biomarkers that could differentiate ovarian endometrioma from other ovarian masses.
@@ -11,6 +11,8 @@ Characteristics of the study population: age (adolescents vs. later reproductive
 Histological confirmation in conjunction with laparoscopic visualisation compared to laparoscopic visualisation alone;
 Changes in technology over time: year of publication; modifications applied to conventional laboratory techniques;
 Methodological quality: differences in the QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies-2) evaluation (Table 3), including a) low versus unclear or high risk; b) consecutive versus non-consecutive enrolment; c) blinding of surgeons to the results of index tests;
+</Objectives>
+<ObjectiveTable>
 Table 3. Application of the QUADAS-2 tool for assessment of methodological quality of the included studies
 Domain 1 - Patient selection
 Description Describe methods of patient selection and included patients
@@ -105,8 +107,10 @@ Low If 'yes' classification for all the above 3 questions
 High If 'no' classification for any of the above 3 questions
 Unclear If 'unclear' classification for any of the above 3 questions and 'high risk' judgement was not applicable
 Study design ('single-gate design' vs. 'two-gate design' studies).
-2. To assess biomarkers which were not affected by endometriosis and hence were unlikely to discriminate between women with and without the disease.</objective>
-  <type_of_study>
+2. To assess biomarkers which were not affected by endometriosis and hence were unlikely to discriminate between women with and without the disease.
+</ObjectiveTable>
+
+  <TypesofStudies>
 Published peer-reviewed studies that compared the results of one or several types of urinary biomarkers with the results obtained by surgical diagnosis of endometriosis. Studies were included if they were:
 Randomised controlled trials;
 Observational studies of the following designs:
@@ -122,16 +126,16 @@ Narrative or systematic reviews;
 Studies of retrospective design where the sample collection was performed after execution of reference test;
 Studies of retrospective design where the participants were selected from retrospective review of the case notes/archived samples and information on recruitment methods or study population was not available;
 Case reports or case series;
-Studies reported only in abstract form or in conference proceedings where the full text was not available. This limitation was applied when we faced substantial difficulty in obtaining the information from the abstracts, which precluded a reliable assessment of eligibility and methodological quality.</type_of_study>
-  <participants>
+Studies reported only in abstract form or in conference proceedings where the full text was not available. This limitation was applied when we faced substantial difficulty in obtaining the information from the abstracts, which precluded a reliable assessment of eligibility and methodological quality.</TypesofStudies>
+  <TypesofParticipants>
 Study participants included reproductive-aged women (puberty to menopause) with suspected endometriosis based on clinical symptoms or pelvic examination, or both, who undertook both the index test and reference standard.
 The participants were selected from populations of women undergoing abdominal surgery for the following indications: 1) clinically suspected endometriosis (pelvic pain, infertility, abnormal pelvic examination, or a combination of the above), 2) ovarian mass regardless of symptoms, 3) a mixed group, which consists of women with suspected endometriosis/ovarian mass or women with other benign gynaecological conditions (e.g. surgical sterilisation, fibroid uterus, etc). Asymptomatic women who have an incidental finding of endometriosis at surgery performed for another indication were also included
-Articles that included participants of postmenopausal age were eligible when the data for the reproductive age group was available in isolation. Studies were excluded when the study population involved participants who clearly would not undergo the index test in a clinical scenario or would not benefit from the test (e.g. women with ectopic pregnancies, gynaecological malignancy or acute pelvic inflammatory disease). We also excluded publications where only a subset of participants with a positive index test or reference standard were included in the analysis and the data for the whole cohort were not available.</participants>
-  <index_tests>
+Articles that included participants of postmenopausal age were eligible when the data for the reproductive age group was available in isolation. Studies were excluded when the study population involved participants who clearly would not undergo the index test in a clinical scenario or would not benefit from the test (e.g. women with ectopic pregnancies, gynaecological malignancy or acute pelvic inflammatory disease). We also excluded publications where only a subset of participants with a positive index test or reference standard were included in the analysis and the data for the whole cohort were not available.</TypesofParticipants>
+  <IndexTests>
 Any type of urinary biomarker for endometriosis was assessed either separately or in combination with other urine tests. The assessed index tests are presented in Table 2. We included the tests performed in one or several phases of menstrual cycle.
 The combined evaluations of urinary biomarkers with other methods for diagnosing endometriosis (e.g. pelvic examination, imaging, blood or endometrial tests) are beyond the scope of this review and are presented separately in another review 'Combined tests for the non-invasive diagnosis of endometriosis'. The studies that solely assessed specific technical aspects, qualitative descriptions of lesion appearance or inter-observer variability of the index tests without reporting the data on diagnostic performance were excluded from the review. When the evaluated biomarker(s) showed differential expression between the groups of women with and without endometriosis, the publication was considered only if the data were reported with sufficient detail for the construction of 2 x 2 contingency tables. However, when the contingency tables were not available because the expression level of index test did not significantly differ between the groups and the inclusion criteria were otherwise met, a critical appraisal was undertaken and the study was presented in the descriptive part of the review. Thus the adequately designed studies that identified biomarkers without diagnostic value were evaluated as they provide information that is likely to focus future research on other more clinically useful biomarkers. This methodology also identified biomarkers which were associated with endometriosis in some but not other publications. Evaluations of screening or predictive accuracy tests were not included in this review.
-The diagnostic performance of an index test was considered to be high when the test reached the criteria for a replacement test (sensitivity of equal or greater than 94% with specificity of equal or greater than 79%) or triage test (sensitivity of equal or greater than 95% with specificity of equal or greater than 50% or vice versa), or approached these criteria (diagnostic estimates within 5% of the set thresholds). All other diagnostic estimates were considered to be low.</index_tests>
-  <target_conditions>
+The diagnostic performance of an index test was considered to be high when the test reached the criteria for a replacement test (sensitivity of equal or greater than 94% with specificity of equal or greater than 79%) or triage test (sensitivity of equal or greater than 95% with specificity of equal or greater than 50% or vice versa), or approached these criteria (diagnostic estimates within 5% of the set thresholds). All other diagnostic estimates were considered to be low.</IndexTests>
+  <TargetConditions>
 Pelvic endometriosis, defined as endometrial tissue located in the pelvic cavity: any of the pelvic organs, peritoneum and pouch of Douglas. Three types of pelvic endometriosis were assessed:
 1. Peritoneal endometriosis, defined as endometrial deposits detected on peritoneum covering pelvic organs, pelvic side walls or pouch of Douglas;
 2. Ovarian endometriosis (endometrioma), defined as an ovarian cyst lined by endometrial tissue and appearing as an ovarian mass of varying size;
@@ -139,9 +143,9 @@ Pelvic endometriosis, defined as endometrial tissue located in the pelvic cavity
 Certain rare types of endometriosis such as extrapelvic, bladder and ureteric endometriosis were not included in this review because the majority were reported in case reports or case series and laparoscopy or laparotomy are not reliable reference standards for these conditions.
 We excluded the studies where diagnosis of endometriosis was not the primary outcome of the trial (e.g. malignant vs benign masses or normal vs. abnormal pelvis) and the separate data for endometriosis were not available.
 We also excluded the studies where the findings of the index test formed the basis of selection for the reference standard, because this was likely to distort an assessment of the diagnostic value of index test.
-We included studies that recruited selected populations of women with endometriosis (i.e. those with specific rASRM stages), because there is a poor correlation between the rASRM classification and infertility and pain symptoms. Exclusion of these studies could result in a loss of potentially important diagnostic information from otherwise eligible publications. Where possible the impact of these studies was addressed in the assessments of heterogeneity. When a study analysed a large population with a wide spectrum of endometriosis and additionally reported a sub-group analysis of the different stages of disease severity, only estimates for the entire population were considered, because a subgroup analysis does not directly address the review question regarding the clinical utility of the biomarker in detecting the disease.</target_conditions>
-  <reference_standards>
+We included studies that recruited selected populations of women with endometriosis (i.e. those with specific rASRM stages), because there is a poor correlation between the rASRM classification and infertility and pain symptoms. Exclusion of these studies could result in a loss of potentially important diagnostic information from otherwise eligible publications. Where possible the impact of these studies was addressed in the assessments of heterogeneity. When a study analysed a large population with a wide spectrum of endometriosis and additionally reported a sub-group analysis of the different stages of disease severity, only estimates for the entire population were considered, because a subgroup analysis does not directly address the review question regarding the clinical utility of the biomarker in detecting the disease.</TargetConditions>
+  <ReferenceStandards>
 The reference standard was visualisation of endometriosis at surgery (laparoscopy or laparotomy) with or without histological confirmation, as this is currently the best available test for endometriosis. Information regarding the inter- and intra-observer correlation of the reference standard was reviewed if reported.
 Only studies in which the reference test was performed within 12 months of the urine sample collection were included, on the assumption that disease status could change within a period of one year or longer, either naturally or as a result of treatment. Studies in which the participants did not undergo the reference standard or where the findings of the index test formed the basis of selection for undertaking the reference standard were not included in this review.
-</reference_standards>
+</ReferenceStandards>
 </root>

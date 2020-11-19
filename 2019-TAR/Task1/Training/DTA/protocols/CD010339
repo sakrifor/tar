@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <objective>
+  <Objectives>
 To determine and compare the accuracy of ERCP and IOC for the diagnosis of common bile duct stones.
 Secondary objectives
 The secondary objective of this review is to investigate variation in the diagnostic accuracy of ERCP and IOC according to the following potential sources of heterogeneity.
 Studies at low risk of bias versus studies with unclear or high risk of bias (as assessed by the quality assessment tool for diagnostic accuracy studies (QUADAS-2) tool (Table 1)).
+</Objectives>
+<ObjectiveTable>
 Table 1. The QUADAS 2 tool for assessing methodological quality of included studies
 Domain 1: Participant sampling Signalling question Signalling question Signalling question Risk of bias Concerns for applicability
 Domain 1: Participant sampling
@@ -69,17 +71,17 @@ Symptomatic versus asymptomatic common bile duct stones (the presence of symptom
 Prevalence of common bile duct stones in each included study. The prevalence of common bile duct stones in the population analysed by each included study may vary and cause heterogeneity. Prevalence may also change with people with co-morbidities that would predispose them to common bile duct stones, such as primary sclerosing cholangitis, Caroli's disease, hypercholesterolaemia, sickle cell anaemia, and sphincter of Oddi dysfunction.
 Proportion of people with previous cholecystectomy. Cholecystectomy may cause dilation of the common bile duct (Benjaminov 2013), and subsequently change the accuracy of the index test particularly imaging modalities.
 Proportion of people with common bile duct strictures (only for index tests that use contrast material, as strictures may prevent contrast material filling the common bile duct completely and, therefore, change the accuracy of the index test).
-MRCP or EUS, if performed, prior to the index test.</objective>
-  <type_of_study>
-We included studies providing cross-sectional information comparing one or more of the index tests against a reference standard in the appropriate patient population (see Participants). We included studies irrespective of language or publication status, or whether data were collected prospectively or retrospectively. We included comparative studies in which ERCP and IOC were performed in the same study population either by giving all participants both index tests or by randomly allocating participants to receive ERCP or IOC. We excluded diagnostic case-control studies if there were at least four cross-sectional or comparative studies.</type_of_study>
-  <participants>
-People at risk of or suspected of having common bile duct stones, with or without prior diagnosis of cholelithiasis; with or without symptoms and complications of common bile duct stones, with or without prior treatment for common bile duct stones; and before or after cholecystectomy.</participants>
-  <index_tests>
-ERCP and IOC.</index_tests>
-  <target_conditions>
-Common bile duct stones.</target_conditions>
-  <reference_standards>
+MRCP or EUS, if performed, prior to the index test.</ObjectiveTable>
+  <TypesofStudies>
+We included studies providing cross-sectional information comparing one or more of the index tests against a reference standard in the appropriate patient population (see Participants). We included studies irrespective of language or publication status, or whether data were collected prospectively or retrospectively. We included comparative studies in which ERCP and IOC were performed in the same study population either by giving all participants both index tests or by randomly allocating participants to receive ERCP or IOC. We excluded diagnostic case-control studies if there were at least four cross-sectional or comparative studies.</TypesofStudies>
+  <TypesofParticipants>
+People at risk of or suspected of having common bile duct stones, with or without prior diagnosis of cholelithiasis; with or without symptoms and complications of common bile duct stones, with or without prior treatment for common bile duct stones; and before or after cholecystectomy.</TypesofParticipants>
+  <IndexTests>
+ERCP and IOC.</IndexTests>
+  <TargetConditions>
+Common bile duct stones.</TargetConditions>
+  <ReferenceStandards>
 We accepted the following reference standard.
 For test positives, we accepted confirmation of a common bile duct stone by extraction of the stone (irrespective of whether this was done by surgical or endoscopic methods).
-For test negatives, we acknowledged that there was no way of being sure that there were no common bile duct stones. However, we accepted negative results by surgical or endoscopic negative exploration of the common bile duct, or symptom-free follow-up for at least six months as the reference standard. Surgical or endoscopic exploration s adequate, but it is not commonly used in people with negative index tests because of its invasive nature. Therefore, we accepted follow-up as a less adequate reference test. Negative exploration of common bile duct is likely to be a better reference standard than follow-up for at least six months since most stones already present in the common bile duct are likely to be extracted in this fashion. Six months is an arbitrary choice, but we anticipated most common bile duct stones will become manifest during this period.</reference_standards>
+For test negatives, we acknowledged that there was no way of being sure that there were no common bile duct stones. However, we accepted negative results by surgical or endoscopic negative exploration of the common bile duct, or symptom-free follow-up for at least six months as the reference standard. Surgical or endoscopic exploration s adequate, but it is not commonly used in people with negative index tests because of its invasive nature. Therefore, we accepted follow-up as a less adequate reference test. Negative exploration of common bile duct is likely to be a better reference standard than follow-up for at least six months since most stones already present in the common bile duct are likely to be extracted in this fashion. Six months is an arbitrary choice, but we anticipated most common bile duct stones will become manifest during this period.</ReferenceStandards>
 </root>
